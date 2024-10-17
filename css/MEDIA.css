@@ -1,0 +1,319 @@
+@media only screen and (max-width :1140px) {
+	.header {
+		width: 100%;
+		padding: 0px 50px;
+	}
+
+	.sec1_inner {
+		max-width: 980px;
+
+	}
+
+	.sec2_inner {
+		max-width: 980px;
+
+	}
+
+	.sec3_inner {
+		max-width: 980px;
+
+	}
+
+	.sec4_inner {
+		max-width: 980px;
+
+	}
+
+
+	.sec5_inner {
+		max-width: 980px;
+
+	}
+
+	.sec6_inner {
+		max-width: 980px;
+
+
+	}
+
+	.sec7_inner {
+		max-width: 980px;
+
+	}
+
+	.sec8_inner {
+		max-width: 980px;
+
+	}
+
+	.sec9_inner {
+		max-width: 980px;
+
+	}
+
+	.footer_inner {
+		max-width: 980px;
+
+	}
+
+}
+
+
+@media only screen and (max-width :992px) {
+	.header {
+		padding: 10px;
+	}
+
+	.sec1_inner {
+		max-width: 720px;
+		flex-direction: column;
+		padding: unset;
+	}
+
+	.sec1_innerleft {
+		width: 100%;
+		padding: unset;
+		text-align: center;
+		
+	}
+
+	.images {
+		justify-content: center;
+	}
+
+	.sec1_innerright {
+		width: 100%;
+	}
+
+	.sec1_innerright form {
+		max-width: 95%;
+	}
+
+	.sec1_innerright form div {
+		flex-direction: column;
+
+	}
+
+	.sec1_innerright form div input {
+		margin-bottom: 10px;
+	}
+
+
+
+	.sec2_inner {
+		max-width: 720px;
+
+	}
+	.utube {
+		width: 47%;
+		border-radius: 20px;
+		height: 230px;
+		margin: 10px;
+	}
+	.utube iframe {
+		width: 100%;
+	}
+	
+	
+
+	.sec3_inner {
+		max-width: 720px;
+
+	}
+
+	.sec4_inner {
+		max-width: 720px;
+
+	}
+
+	.card4 {
+		width: 30%;
+	}
+
+	.sec5_inner {
+		max-width: 720px;
+
+	}
+
+	.card5 {
+		width: 30%
+	}
+
+
+	.sec6_inner {
+		max-width: 720px;
+
+
+	}
+
+	.sec7_inner {
+		max-width: 720px;
+
+	}
+
+
+	.sec8_inner {
+		max-width: 720px;
+
+	}
+
+	.card8 {
+		width: 97%
+	}
+
+	.sec9_inner {
+		max-width: 720px;
+
+	}
+
+	.col {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+	.column {
+		text-align: center;
+	}
+
+	.footer_inner {
+		max-width: 720px;
+
+	}
+}
+
+
+@media only screen and (max-width :767px) {
+	.header {
+		justify-content: center;
+	}
+
+	.header button {
+		display: none;
+	}
+
+	.sec1_inner {
+		max-width: 540px;
+		flex-direction: column;
+	}
+
+	.sec1_innerleft {
+		width: 100%;
+		padding: unset;
+		text-align: center;
+	}
+
+	.images {
+		justify-content: center;
+	}
+
+	.sec1_innerright {
+		width: 100%;
+		padding: unset;
+	}
+
+
+	.sec1_innerright form {
+		max-width: 95%;
+		padding-bottom: 50px;
+	}
+
+	.sec1_innerright form div {
+		flex-direction: column;
+
+	}
+
+	.sec1_innerright form div input {
+		margin-bottom: 10px;
+	}
+
+	.utube {
+		width: 98%;
+		border-radius: 10px;
+		height: 230px;
+		margin: 10px;
+	}
+
+	.utube iframe {
+		width: 100%;
+	}
+	
+	.sec2_inner {
+		max-width: 540px;
+
+	}
+
+	.sec3_inner {
+		max-width: 540px;
+
+	}
+
+	.card {
+		width: 98%;
+	}
+
+	.sec4_inner {
+		max-width: 540px;
+
+	}
+
+	.card4 {
+		width: 45%;
+	}
+
+
+
+
+	.sec5_inner {
+		max-width: 540px;
+
+	}
+
+	.card5 {
+		width: 45%
+	}
+
+
+	.sec6_inner {
+		max-width: 540px;
+
+
+	}
+
+	.sec7_inner {
+		max-width: 540px;
+
+	}
+
+
+	.sec8_inner {
+		max-width: 540px;
+
+	}
+
+	.card8 {
+		width: 97%
+	}
+
+	.sec9_inner {
+		max-width: 540px;
+
+	}
+
+	.col {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+	.column {
+		width: 95%;
+		text-align: center;
+	}
+
+	.footer_inner {
+		max-width: 540px;
+	}
+}
